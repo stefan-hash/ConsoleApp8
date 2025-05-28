@@ -14,8 +14,7 @@ namespace ConsoleApp8
             Console.WriteLine("Hola Mundo!");
 
             //segunda version de la aplicacion
-            Console.WriteLine("Realmente, Hola Mundo!");
-            //oijojj
+            Console.WriteLine("Realmente, Hola Mundo!");           
         }
     }
 }
