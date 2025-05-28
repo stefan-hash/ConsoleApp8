@@ -10,7 +10,12 @@ namespace ConsoleApp8
     {
         static void Main(string[] args)
         {
+            //primera version de la aplicacion
+            Console.WriteLine("Hola Mundo!");
 
+            //segunda version de la aplicacion
+            Console.WriteLine("Realmente, Hola Mundo!");
+            //oijojj
         }
     }
 }
